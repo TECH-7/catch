@@ -1,0 +1,6 @@
+.card {
+  border-radius: 15px;
+}
+.gradient-custom {
+  background: linear-gradient(to bottom right, rgba(85, 147, 251, 1), rgba(90, 87, 108, 1));
+}
